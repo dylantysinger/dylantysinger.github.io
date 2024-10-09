@@ -64,4 +64,4 @@ Honors and Awards
 ======
 * Sigma Gamma Tau Aerospace Engineering Honor Society
 * TAMU Brown Engineering Honors Program
-
+* Member, American Institute of Aeronautics and Astronautics 

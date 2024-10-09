@@ -24,7 +24,7 @@ author:
   avatar           : "dylan_tysinger.JPG"
   name             : "Dylan Tysinger"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate Aerospace Engineering Student"
+  bio              : "Undergraduate Aerospace Engineering Student at Texas A&M University"
   location         : "College Station, Texas"
   employer         : "Texas A&M University"
   uri              : # URL
@@ -129,7 +129,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :

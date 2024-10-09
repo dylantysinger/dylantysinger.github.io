@@ -8,7 +8,7 @@ date: 2024-08-19
 location: "College Station, Texas"
 ---
 
-In the Fall 2024 Semester I served as a grader for Dr. John Valasek and Dr. Hannah Lehman's AERO 321 course on the Dynamics of Aerospace Vehicles.
+In the Fall 2024 Semester, I served as a grader for Dr. John Valasek and Dr. Hannah Lehman's AERO 321 course on the Dynamics of Aerospace Vehicles.
 
 Course Material
 ======

@@ -31,11 +31,23 @@ redirect_from:
 Education
 ======
 * B.S. in Aerospace Engineering, Texas A&M University, 2025 (expected)
+  * GPA - 3.93/4.00
+  * Minor in Mathematics
+  * Craig and Galen Brown Engineering Honors
 
-Relevant Professional Experience
+Research Experience
 ======
-**Los Alamos National Laboratories Capstone**, *Aerodynamics and Avionics Team*
+**Intelligent Systems Research Laboratory**, Texas A&M University
+* *Undergraduate Researcher*, Advisor: Dr. Raktim Bhattacharya
+  * Developing a reconfigurable flight controller that allows seamless integration and testing of multiple flight control algorithms, enabling rapid deployment and adaptability for aerospace applications
+  * Designed Simulink model to interface with PX4 embedded flight control system
+  * Evaluated microcontroller board options for embedded systems programming of a flight control system
+
+Professional Experience
+======
+**Los Alamos National Laboratories Capstone**, *Glider Design Team and Controls Team*
   * Collaborated on an interdisciplinary Capstone Team to develop an Aerial Reconnaissance System composed of a UAS Glider for reconnaissance and a Rover system for Launch and Recovery
+  * Created control system to coordinate Recovery Vehicle interception of Glider flight path
   * Developed 3-DOF dynamics simulation to evaluate UAS flight performance
   * Designed a high-resolution data-acquisition system with a NIIRS 7 rating 
 
@@ -45,6 +57,8 @@ Relevant Professional Experience
   * Performed hardware bench testing on avionics for HIL simulations
   * Led workshops teaching 3 teams of engineers to use the Simulink analysis tools and presented on analysis tool development progress 
 
+Relevant Project Experience
+======
 **Aerodynamics, Stability and Controls Engineer**, *Texas A&M SAE Aero Design Team*
   * Collaborated under an AGILE/SCRUM framework with 20 engineers to design a short takeoff and landing (STOL) unmanned air system (UAS)
   * Led a team of four engineers developing a reconfigurable 3-DoF and 6-DoF flight dynamics code in MATLAB and Simulink
@@ -59,13 +73,6 @@ Relevant Professional Experience
   * Integrated electronic and mechanical systems on a science payload vehicle, creating 5% weight savings
   * Designed CAD Model for small scale aerobrake designed to slow science payload to 5 m/s
   * Constructed CFD simulations to validate the aerobrake design
-
-Research Experience
-======
-**Intelligent Systems Research Laboratory**, Texas A&M University
-* *Undergraduate Researcher*, Advisor: Dr. Raktim Bhattacharya
-  * Designed Simulink model to interface with PX4 embedded flight control system
-  * Evaluated microcontroller board options for embedded systems programming of a flight control system
 
 Skills
 ======
@@ -112,8 +119,9 @@ Service & Leadership Experience
     
 PROFESSIONAL SOCIETIES
 ======
-* Sigma Gamma Tau Aerospace Engineering National Honor Society (SGT)
-* American Institute of Aeronautics and Astronautics (AIAA)
+  * American Institute of Aeronautics and Astronautics (AIAA), 2022-Present
+  * Sigma Gamma Tau Aerospace Engineering National Honor Society (SGT), 2024-Present
+  * Society of Automotive Engineers (SAE), 2024-Present
 
 AWARDS
 ======
